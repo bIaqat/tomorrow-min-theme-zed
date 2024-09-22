@@ -1,0 +1,7 @@
+id = "tomorrow-min-theme"
+name = "Tomorrow Minimal Theme"
+version = "0.9.0"
+schema_version = 1
+authors = ["blaqat <blaqat.ag@gmail.com>"]
+description = "Theme Based on chriskempson's Tomorrow Theme, VS Code's Tomorrow Night Blue, and mdBook's Coal Theme"
+repository = "https://github.com/biaqat/tomorrow-theme-zed"
